@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zachary Morse"
+  image: 'headshots-107.jpg' 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Hobbies.qmd
+        text: Hobbies
+      - text: Resume
+        href: Zachary Morse Resume (unclass).pdf
+      - icon: envelope
+        href: mailto:zachary.morse@ucdenver.edu
+        aria-label: Email
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/zachary-morse-b18775318
+
+format:
+  html:
+    theme: vapor
+    css: styles.css
+    toc: true
+

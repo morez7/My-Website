@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary Morse",
+    "section": "",
+    "text": "Data Analysis & Modeling: Proficient in statistical modeling, statistical programming with R (dplyr, ggplot2), and Python.\nInformation Systems: Experienced in spatial data manipulation, database architectures, and business informatics.\nTechnical Communication: Adept at translating complex analytical insights into clear, actionable reporting."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Zachary Morse",
+    "section": "",
+    "text": "Data Analysis & Modeling: Proficient in statistical modeling, statistical programming with R (dplyr, ggplot2), and Python.\nInformation Systems: Experienced in spatial data manipulation, database architectures, and business informatics.\nTechnical Communication: Adept at translating complex analytical insights into clear, actionable reporting."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zachary Morse",
+    "section": "Education",
+    "text": "Education\n\nUniversity / College: B.S. in Business Informatics or Data Analytics\nMilitary Training: United States Air Force – Technical training in aerospace repair and satellite communications monitoring.\nKey Coursework: Advanced Statistical Modeling, Applied Data Science, Database Systems, and Operations Management.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Here are a few activities I enjoy outside of work and studies."
+  },
+  {
+    "objectID": "Hobbies.html#basketball-analysis-playing",
+    "href": "Hobbies.html#basketball-analysis-playing",
+    "title": "Hobbies",
+    "section": "Basketball Analysis & Playing",
+    "text": "Basketball Analysis & Playing\nI am a huge fan of the NBA and enjoy analyzing game scores and predictive modeling. I also enjoy playing recreational basketball to stay active. I consider my analytical skills to be quite strong, while my on-court skills are a work in progress!"
+  },
+  {
+    "objectID": "Hobbies.html#data-science-projects",
+    "href": "Hobbies.html#data-science-projects",
+    "title": "Hobbies",
+    "section": "Data Science Projects",
+    "text": "Data Science Projects\nData Enthusiast & Developer focused on turning raw data into reality. From chess engines to sports analytics, I build tools that make the abstract actionable."
+  },
+  {
+    "objectID": "Hobbies.html#hiking-in-colorado",
+    "href": "Hobbies.html#hiking-in-colorado",
+    "title": "Hobbies",
+    "section": "Hiking in Colorado",
+    "text": "Hiking in Colorado\nLiving in Colorado provides a great opportunity to explore the outdoors. Hiking is a great way to unwind after solving complex programming challenges.My favorite hike in Colorado is Lone Eagle Peak in Granby."
+  }
+]

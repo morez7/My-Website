@@ -1,0 +1,22 @@
+---
+title: "Zachary Morse"
+---
+## Skills
+
+* **Data Analysis & Modeling:** Proficient in statistical modeling, statistical programming with R (dplyr, ggplot2), and Python.
+* **Information Systems:** Experienced in spatial data manipulation, database architectures, and business informatics.
+* **Technical Communication:** Adept at translating complex analytical insights into clear, actionable reporting.
+
+## Education
+
+* **University / College:** B.S. in Business Informatics or Data Analytics
+* **Military Training:** United States Air Force – Technical training in aerospace repair and satellite communications monitoring.
+* **Key Coursework:** Advanced Statistical Modeling, Applied Data Science, Database Systems, and Operations Management.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

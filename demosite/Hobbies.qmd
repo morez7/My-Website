@@ -1,0 +1,20 @@
+---
+title: "Hobbies"
+format: html
+---
+
+---
+title: "Hobbies"
+---
+
+Here are a few activities I enjoy outside of work and studies.
+
+## Basketball Analysis & Playing
+I am a huge fan of the NBA and enjoy analyzing game scores and predictive modeling. I also enjoy playing recreational basketball to stay active. I consider my analytical skills to be quite strong, while my on-court skills are a work in progress!
+
+## Data Science Projects
+Data Enthusiast & Developer focused on turning raw data into reality. From chess engines to sports analytics, I build tools that make the abstract actionable.
+
+## Hiking in Colorado
+Living in Colorado provides a great opportunity to explore the outdoors. Hiking is a great way to unwind after solving complex programming challenges.My favorite hike in Colorado is Lone Eagle Peak in Granby. 
+
